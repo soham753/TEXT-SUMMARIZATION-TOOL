@@ -40,5 +40,6 @@ The project avoids sending data to cloud APIs, making it **privacy-friendly**, *
 
 ## Output: -
 
+<img width="1778" height="663" alt="Image" src="https://github.com/user-attachments/assets/526d193b-e8bc-4cf6-820f-446040fc0e45" />
 
 

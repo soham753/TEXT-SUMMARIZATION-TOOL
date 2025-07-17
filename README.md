@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# 📝 Simple Text Summarizer using LangChain + Ollama (Phi-3)
+
 
 This repository contains a minimal yet powerful Python-based application that performs **automatic text summarization** using a **local language model (LLM)** via [Ollama](https://ollama.com/) and the [LangChain](https://www.langchain.com/) framework. It leverages the **Phi-3** language model, one of the most efficient and compact open-source models, to summarize long pieces of text into concise, human-readable summaries. This solution is lightweight, easy to run locally, and ideal for research, education, or integration into larger AI workflows.
 

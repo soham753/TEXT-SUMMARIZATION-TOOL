@@ -37,3 +37,8 @@ The application flow is simple:
 The project avoids sending data to cloud APIs, making it **privacy-friendly**, **cost-effective**, and suitable for **offline environments** like research labs, local servers, or edge devices.
 
 ---
+
+## Output: -
+
+
+
